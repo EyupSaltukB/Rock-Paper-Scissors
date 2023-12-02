@@ -1,5 +1,6 @@
 # Rock - Paper - Scissors
-React Native ile Android ve iOS uyumlu taş kağıt makas oyunu
+React Native ile Android ve iOS uyumlu taş kağıt makas oyunu.
+iPhone 15 Pro ve Pixel 7 Pro üzerinde tasarlanmıştır.
 
 # Kullanılan Teknolojiler
 - Java
