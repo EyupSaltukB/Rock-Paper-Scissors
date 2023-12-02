@@ -1,3 +1,28 @@
+# Rock - Paper - Scissors
+React Native ile Android ve iOS uyumlu taş kağıt makas oyunu
+
+# Kullanılan Teknolojiler
+- Java
+- Javascript
+- Ruby
+- Obejctive - C
+- Objective - C ++
+- Typescript
+
+# Ekran Görüntüleri
+
+![](./assets/won.png)
+![](./assets/draw.png)
+![](./assets/lose.png)
+
+# Videolar
+
+![](./assets/screenrecorder.mp4)
+
+# GIF
+
+![]()
+
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
 # Getting Started
