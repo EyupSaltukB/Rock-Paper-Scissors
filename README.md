@@ -17,7 +17,7 @@ iPhone 15 Pro ve Pixel 7 Pro üzerinde tasarlanmıştır.
 ![](./assets/lose.png)
 
 # Videolar
-
+Detaylı video --> https://www.linkedin.com/feed/update/urn:li:activity:7137061966669398016/
 ![](./assets/screenrecorder.mp4)
 
 # GIF
